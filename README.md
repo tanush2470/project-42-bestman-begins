@@ -1,1 +1,1 @@
-# project-42-bestman-begins
+# PROJECT-42
